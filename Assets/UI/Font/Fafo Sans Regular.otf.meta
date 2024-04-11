@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3fc1075f741de9643be2000b3cbb897f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fafo Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1cd95f6c0577434a9e2e1c9d4831efc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

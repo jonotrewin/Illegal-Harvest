@@ -1,0 +1,35 @@
+.button {
+    width: 167px;
+    height: 70px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: rgb(250, 140, 140);
+    -unity-font: url('project://database/Assets/UI/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=8f230eb72e6159e48a4f60eb56e22f8f&type=3#NotInter-Regular');
+    -unity-font-style: bold;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    word-spacing: 0;
+    letter-spacing: -9px;
+    -unity-paragraph-spacing: 0;
+    -unity-background-scale-mode: stretch-to-fill;
+    -unity-slice-left: 0;
+    -unity-slice-top: 0;
+    -unity-slice-right: 0;
+    -unity-slice-bottom: 0;
+    -unity-slice-scale: 0;
+    border-left-color: rgb(207, 96, 96);
+    border-right-color: rgb(207, 96, 96);
+    border-top-color: rgb(207, 96, 96);
+    border-bottom-color: rgb(207, 96, 96);
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+}
+
+.button:active {
+    color: rgb(255, 255, 255);
+    background-color: rgba(197, 101, 101, 0);
+}
